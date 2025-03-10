@@ -79,7 +79,7 @@
     </div>
     
     <div class="note">
-        <p>Note: You can also use URL parameters: process.php?integers=3,5,7,9&threshold=4</p>
+
     </div>
 </body>
 </html>
