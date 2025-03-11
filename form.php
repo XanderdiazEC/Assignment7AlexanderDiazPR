@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Bitwise Operations</title>
+    <title>Assignment 7</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -57,8 +57,10 @@
             font-size: 14px;
             text-align: center;
         }
+
     </style>
 </head>
+<link rel="icon" type="image/png" href="https://www.muraldecal.com/en/img/asmu006-jpg/folder/products-listado-merchanthover/stickers-linkin-park-logo.jpg">
 <body>
     <h1>Bitwise Operations Calculator</h1>
     
